@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(59, 59, 59);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: white;
+    font-size: 70px;
+    margin-top: 300px;
+}
+
+button{
+    padding: 25px 85px;
+    margin-top: 50px;
+    border-radius: 80px;
+    font-size: 20px;
+    border-color: black;
+    border-style: 3px;
+    background-color: rgb(37, 37, 37);
+    color: azure;
+}
+
+h4{
+    color: white;
+    margin-top: 45px;
+}
