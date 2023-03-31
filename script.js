@@ -1,6 +1,6 @@
 let x = 0;
             function clicker(){
-                if(x >= 100){
+                if(x >= 1000){
                     window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ"); 
                     document.getElementById("num").innerHTML = x.toString();
                 }else{

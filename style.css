@@ -7,6 +7,10 @@ p{
     color: white;
     font-size: 70px;
     margin-top: 300px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 40px;
+    background-color: rgb(50, 50, 50);
 }
 
 button{
@@ -16,8 +20,13 @@ button{
     font-size: 20px;
     border-color: black;
     border-style: 3px;
-    background-color: rgb(37, 37, 37);
+    background-color: rgb(27, 27, 27);
     color: azure;
+}
+
+button:hover{
+    background-color: rgb(37, 37, 37);
+    border-color: rgb(103, 103, 103);
 }
 
 h4{
