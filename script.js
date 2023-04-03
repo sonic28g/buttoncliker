@@ -23,7 +23,7 @@ function changeMul2(){
         if(x >= 100){
             mul = 2;
             x -= 100;
-            document.getElementById("mult").innerHTML = "2";
+            document.getElementById("mult").innerHTML = "Multiplier: 2x";
             document.getElementById("num").innerHTML = x.toString();
             document.getElementById("double").innerHTML = "Purchased";
             x2 = 1;

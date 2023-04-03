@@ -14,15 +14,16 @@ p{
     
 }
 
-button{
-    padding: 25px 85px;
-    margin-top: 50px;
+#btn button{
+    padding: 22px 80px;
+    margin-top: 40px;
     border-radius: 80px;
     font-size: 20px;
     border-color: black;
     border-style: 3px;
     background-color: rgb(27, 27, 27);
     color: azure;
+    display: inline;
 }
 
 button:hover{
@@ -31,17 +32,12 @@ button:hover{
 }
 
 h4{
-    color: white;
-    margin-top: 45px;
+    color: rgb(226, 226, 226);
+    margin-top: 25px;
 }
 
 h1{
     color: white;
-    font-size: 90px;
+    font-size: 75px;
     text-decoration:underline;
-}
-
-h2{
-    color: white;
-    font-size: 60px;
 }
