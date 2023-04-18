@@ -16,7 +16,7 @@ p{
 
 #btn button{
     padding: 22px 80px;
-    margin-top: 40px;
+    margin-top: 28px;
     border-radius: 80px;
     font-size: 20px;
     border-color: black;
@@ -26,18 +26,20 @@ p{
     display: inline;
 }
 
-#btn button:hover{
-    background-color: rgb(37, 37, 37);
-    border-color: rgb(103, 103, 103);
-}
 
-h4{
+h3,h4{
     color: rgb(226, 226, 226);
-    margin-top: 25px;
+    margin-top: 20px;
 }
 
 h1{
     color: white;
     font-size: 75px;
     text-decoration:underline;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
